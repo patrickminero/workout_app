@@ -1,0 +1,2 @@
+module ExerciseTemplateHelper
+end
